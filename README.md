@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on PHP related works
 - 🤔 I’m looking for help with RestAPI, intigretion with Machine Learning and PHP web application
-- 💬 Ask me about ...
+- 💬 Ask me about my Repos....
  <h3 align ="center"> 📫 How to reach me:</h3>
 <p align="center">
 <a href="https://twitter.com/AdritoMustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Adrito Mustafa" height="30" width="40" /></a>
@@ -49,7 +49,7 @@
 </a> 
 </p>
 </p>
-- ⚡ Fun fact: I'm a lazy lerner.
+<p>- ⚡ Fun fact: " I'm a lazy lerner. "</p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adritomustafa153&show_icons=true&locale=en&layout=compact" alt="Adrito Mustafa" /></p>
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adritomustafa153&show_icons=true&locale=en" alt="Adrito Mustafa" /></p>
