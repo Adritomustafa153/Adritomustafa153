@@ -49,5 +49,9 @@
 </a> 
 </p>
 </p>
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm a lazy lerner.
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adritomustafa153&show_icons=true&locale=en&layout=compact" alt="Adrito Mustafa" /></p>
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adritomustafa153&show_icons=true&locale=en" alt="Adrito Mustafa" /></p>
+
 
