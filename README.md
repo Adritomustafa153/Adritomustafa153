@@ -1,6 +1,6 @@
 <h1 align ="center">Hello!👋 I'm Adrito Mustafa</h1>
 
-<p>I would love to learn new things from experts. And github is the perfect place to connect with experts. I'm a final year student of United Internation University(UIU) in Depertment of Computer Science and Engineering.<p>
+<p>I would love to learn new things from experts. And github is the perfect place to connect with experts. I'm a final year student of United International University (UIU) in Department of Computer Science and Engineering.<p>
 
 - 🔭 I’m currently working on Text Classification using BERT
 - 🌱 I’m currently learning Machine Learning 
